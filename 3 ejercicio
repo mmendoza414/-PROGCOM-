@@ -1,0 +1,5 @@
+estado=True
+while estado:
+  print("Salacadula Chalchicomula \n Bibidi Babidi Bu.\n Siete palabras de magia que son: \n Bibidi Babidi Bu.\n Salacadula Chalchicomula \n Bibidi Babidi Bu. \n Yo hago milagros con esta canción:\nBibidi Babidi Bu.\nTu Salacadula di\n y Chalchicomula mu, \n pero para lograr un gran amor \n di Bibidi Babidi Bu. \n Salacadula Chalchicomula\n Bibidi Babidi Bu.\n Todo se logra con solo decir: \n Bibidi Babidi, \n Bibidi Babidi, \n Bibidi Babidi Bu.\n")
+
+  estado=False
